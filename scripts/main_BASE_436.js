@@ -1,5 +1,0 @@
-require("content-blocks-distribution")
-require("content-blocks-liquid")
-require("content-blocks-power")
-require("content-blocks-production")
-require("content-blocks-drills")
