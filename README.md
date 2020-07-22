@@ -1,6 +1,7 @@
 # NoiTech
 
-A Mindustry mod that aims to make game harder and add more vanilla styled things.
+A Mindustry mod that aims to make game harder.
+Thats it basically.
 
 ## This mod adds / changes
 

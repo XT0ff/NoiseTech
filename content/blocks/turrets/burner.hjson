@@ -7,13 +7,13 @@ shootSound: flame
 targetAir: false
 targetGround: true
 coolantMultiplier: 2
-reload: 5
+reload: 6
 shootCone: 50
 range: 60
 recoil: 0
 ammo: {
 	sulfur: {
-		damage:9
+		damage: 9
 		speed: 3
 		ammoMultiplier: 3
 		hitSize: 7
@@ -31,7 +31,7 @@ ammo: {
 		despawnEffect: none
 	}
 	pyratite: {
-		damage:14
+		damage: 14
 		speed: 3
 		ammoMultiplier: 2
 		hitSize: 8
@@ -44,12 +44,12 @@ ammo: {
 		statusDuration: 480
 		backColor: f1af4e
 		frontColor: fffead
-		shootEffect: shootSmallFlame
+		shootEffect: shootPyraFlame
 		hitEffect: hitFlameSmall
 		despawnEffect: none
 	}
 	blast-compound: {
-		damage:21
+		damage: 21
 		speed: 3
 		ammoMultiplier: 3
 		hitSize: 10
@@ -62,7 +62,7 @@ ammo: {
 		statusDuration: 480
 		backColor: f1af4e
 		frontColor: fffead
-		shootEffect: shootSmallFlame
+		shootEffect: shootPyraFlame
 		hitEffect: hitFlameSmall
 		despawnEffect: none
 	}
