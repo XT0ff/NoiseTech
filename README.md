@@ -81,6 +81,3 @@ Thats it basically.
 	* English
 	* Russian
 	* Ukrainian
-
-This is happening because of NoiTech russian translator:
-https://cdn.discordapp.com/attachments/697934034017452073/747533162510286878/IMG_20200824_220842.jpg

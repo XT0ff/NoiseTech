@@ -61,9 +61,7 @@ ammo: {
 			lifetime:20
 			bulletWidth: 6
 			bulletHeight: 12
-			shrinkY: 1
 			despawnEffect: none
-			collidesGround: false
 		}
 	}
 }
