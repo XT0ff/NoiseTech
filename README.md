@@ -1,8 +1,6 @@
 # NoiTech
 
 ## THIS PROJECT IS FROZEN FOR AN UNKNOWN PERIOD OF TIME.
-## THIS PROJECT IS FROZEN FOR AN UNKNOWN PERIOD OF TIME.
-## THIS PROJECT IS FROZEN FOR AN UNKNOWN PERIOD OF TIME.
 
 A Mindustry mod that aims to make game harder.
 Thats it basically.
@@ -83,3 +81,6 @@ Thats it basically.
 	* English
 	* Russian
 	* Ukrainian
+
+This is happening because of NoiTech russian translator:
+https://cdn.discordapp.com/attachments/697934034017452073/747533162510286878/IMG_20200824_220842.jpg
