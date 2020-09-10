@@ -1,6 +1,4 @@
-# NoiTech
-
-## THIS PROJECT IS FROZEN FOR AN UNKNOWN PERIOD OF TIME.
+# NoiseTech
 
 A Mindustry mod that aims to make game harder.
 Thats it basically.
