@@ -77,5 +77,5 @@ Thats it basically.
 
 ## Supported languages
 	* English
-	* Russian
-	* Ukrainian
+	* Russian (Русский)
+	* Ukrainian (Українська)
